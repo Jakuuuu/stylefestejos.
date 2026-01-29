@@ -14,7 +14,7 @@ const shows: Show[] = [
     title: "Mundo Mágico",
     description: "Princesas y cuentos de hadas cobran vida con vestuarios de alta costura.",
     price: 250,
-    image: "https://lh3.googleusercontent.com/aida-public/AB6AXuCFxwczAtR-MmAQH7JcNsSlNBXfBgbglv04-sNxJqJ00M6Nlyc_2hRj3BWLyDKkWrjzvCxz8m0vznBTToQgnbgQBe97exEUUFysU_dykyM3WSbiYO4AituP54XSV3Q5YEbJbvgGcZWw_eEYLm_j99iwPsR_rGB7akFe-Cxx4ZJtrpkiTEz28um1UT37NXb8JTVvCblZBLxyDyNUAuausq2yHBcMWdXyfKf__fTuT4VY12dMXOC2tdHwpi_291c2rk0uJKHJc93OG7R9",
+    image: "/Ariel.jpg",
     tag: "Popular",
     features: [],
     type: 'princess'
