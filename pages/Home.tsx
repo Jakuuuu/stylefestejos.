@@ -101,7 +101,7 @@ const Home: React.FC = () => {
             </div>
             <div className="md:w-1/2 relative float-animation">
               <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-4 border-white dark:border-surface-dark transform rotate-2 hover:rotate-0 transition-transform duration-500">
-                <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCTQfcYRwcVeeqQ06dyPaxQUF4qCzFzBrzap-SyOGR4tCH0z7Z8lSSK7QEAq05jEQu3RUviFsLnntCJXByip_Q12tIAVUkHjWoXHU2D3bl15XremLiqHTJBwSfyXgquAUHEDtu_XyXtDocd08v3-DOpShNribSZhDLMmS06tkFz7X9-9kdV6ubxlt2rDmsPWm_xxnChMRAOKdIN7_Zmw5fPATd-af8nctFmGE46S2TfxbeBMm6KJ62Wq4tLKMm3XN-rniabXaTTzHz7" alt="Children laughing with entertainer" className="w-full h-auto object-cover" />
+                <img src="/Mickey.jpg"/>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
                 <div className="absolute bottom-6 left-6 text-white font-heading text-xl">
                   🎉 ¡Celebra con nosotros!
